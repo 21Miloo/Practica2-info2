@@ -1,0 +1,9 @@
+# Directorios de compilacion
+build/
+*.exe
+*.o
+*.obj
+
+# Archivos locales de Qt Creator
+.qtcreator/
+CMakeLists.txt.user*
